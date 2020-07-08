@@ -42,5 +42,15 @@ Form the above discussion we get the following security properties
 - **Guranteed output delivery**
 
 ## Defining Security
-- **Option_1: Analyse security concerns for each sepcific problem**
+### Option_1: Analyse security concerns for each sepcific problem
 - Auctions: as in previous heading
+- Elections: privacy, correctness and fairness only (?)
+#### Problems:
+- How do we know that all concerns are covered?
+- Definitions are application dependent and need to be redefined from scratch
+  for each task. 
+### Option_2: General definition that capture all (most) secure computation tasks
+**- Properties of any such definition**
+- Well-defined adversary model
+- Well-defined execution setting
+- Security gurantees are clear and simple to understand
