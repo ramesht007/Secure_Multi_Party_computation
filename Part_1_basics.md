@@ -53,4 +53,4 @@ Form the above discussion we get the following security properties
 **- Properties of any such definition**
 - Well-defined adversary model
 - Well-defined execution setting
-- Security gurantees are clear and simple to understan
+- Security gurantees are clear and simple to understand
