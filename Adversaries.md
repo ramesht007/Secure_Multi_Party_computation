@@ -23,7 +23,7 @@ This type is called **semi-honest** Adversaries.
 
 ## Corruption strategy
 - **Static:** The set of corrupted parties is fixed before the execution begins.
-####### For Example:
+###### For Example:
 Here the adversary can choose who to corrupt. This can be termed as modern hacking attack, where the attacker can break into a machine which suits it's needs. Supose, there is a portocol where we choose 100 parties and out of them we choose 5 parties for main
 computation, so the attacker may attack these 5 parties to get probable chance of successful attack.
 
